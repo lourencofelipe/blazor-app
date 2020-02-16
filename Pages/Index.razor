@@ -4,14 +4,11 @@
 
 <div class="uk-margin">
     <div class="uk-inline uk-width-1-1">
-        <!-- botao executa o método AddNewTask ao ser clicado -->
         <button class="uk-form-icon uk-form-icon-flip" uk-icon="icon: plus-circle" @onclick="AddNewTask"></button>
-        <!-- O valor do input é armazenado em newTodo  -->
         <input class="uk-input uk-form-large uk-width-1-1" placeholder="New Task" @bind="newTodo" />
     </div>
 </div>
 
-<!-- Execução da iteração na lista -->
 <ul class="uk-list uk-list-divider uk-list-large">
     @foreach (var item in todos)
     {
