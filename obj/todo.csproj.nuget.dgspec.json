@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\src\\blazor-app\\todo\\todo.csproj": {}
+    "A:\\src\\blazor-app\\todo.csproj": {}
   },
   "projects": {
-    "A:\\src\\blazor-app\\todo\\todo.csproj": {
+    "A:\\src\\blazor-app\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\src\\blazor-app\\todo\\todo.csproj",
+        "projectUniqueName": "A:\\src\\blazor-app\\todo.csproj",
         "projectName": "todo",
-        "projectPath": "A:\\src\\blazor-app\\todo\\todo.csproj",
+        "projectPath": "A:\\src\\blazor-app\\todo.csproj",
         "packagesPath": "C:\\Users\\whoami\\.nuget\\packages\\",
-        "outputPath": "A:\\src\\blazor-app\\todo\\obj\\",
+        "outputPath": "A:\\src\\blazor-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
